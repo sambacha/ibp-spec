@@ -1,0 +1,26 @@
+{
+  "name": "css-blow",
+  "version": "1.0.0",
+  "description": "<https://jez.io/pandoc-markdown-css-theme/>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambacha/pandoc-markdown-css-theme.git"
+  },
+  "keywords": [],
+  "author": "sam bacha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sambacha/pandoc-markdown-css-theme/issues"
+  },
+  "homepage": "https://github.com/sambacha/pandoc-markdown-css-theme#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0",
+    "pagefind": "^0.10.6",
+    "postcss": "^8.4.20",
+    "postcss-preset-env": "^7.8.3"
+  }
+}
